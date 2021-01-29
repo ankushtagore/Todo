@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(67, 137, 165);
+  font-size: 25px;
+  font-family: 'Arial', 'Arial Narrow', Arial, sans-serif;
+  margin-left: auto;
+  margin-right:auto;
+  text-align: center
+}
+
+.logo{
+  background-color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.add-btn{
+  color: red;
+  font: arial;
+  font-size: 20px;
+  margin-top: 10px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 1px;
+  background-color: black;
+
+  text-shadow: auto;
+  text-align: right;
+
+}
+
+.input-text{
+  margin-top: 10px;
+  vertical-align: text-middle;
+  color:rgb(5, 17, 16);
+}
